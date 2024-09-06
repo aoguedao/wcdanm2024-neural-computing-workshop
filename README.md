@@ -24,6 +24,7 @@ In this short course, we will introduce foundations of computational problem sol
 
 | Lesson                             | Notebook             |
 | :-------------------------------- | :-------------------: |
+| Computational Thinking - Part 0 | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/aoguedao/wcdanm2024-neural-computing-workshop/blob/main/lessons/computational_thinking_part0.ipynb) |
 | Computational Thinking - Part 1 | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/aoguedao/wcdanm2024-neural-computing-workshop/blob/main/lessons/computational_thinking_part1.ipynb) |
 | Computational Thinking - Part 2 | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/aoguedao/wcdanm2024-neural-computing-workshop/blob/main/lessons/computational_thinking_part2.ipynb) |
 | Machine Learning Overview | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/aoguedao/wcdanm2024-neural-computing-workshop/blob/main/lessons/machine_learning_overview.ipynb)  |
